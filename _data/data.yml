@@ -25,11 +25,11 @@ sidebar:
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
     key skills:
-      - 20+ years management and documentation production experience.
-      - Team leadership and resource management.
-      - Process optimization.
-      - Development of standards.
-      - Project delivery to schedule and budget.
+      - item: 20+ years management and documentation production experience.
+      - item: Team leadership and resource management.
+      - item: Process optimization.
+      - item: Development of standards.
+      - item: Project delivery to schedule and budget.
 
     interests:
       - item: Climbing
