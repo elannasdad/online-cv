@@ -24,15 +24,12 @@ sidebar:
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
-    # languages:
-      # - idiom: English
-      #  level: Native
-
-      # - idiom: French
-      #  level: Professional
-
-      # - idiom: Spanish
-      #  level: Professional
+    key skills:
+      - 20+ years management and documentation production experience.
+      - Team leadership and resource management.
+      - Process optimization.
+      - Development of standards.
+      - Project delivery to schedule and budget.
 
     interests:
       - item: Climbing
@@ -47,12 +44,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Innovative, results orientated senior manager possessing extensive global experience in all aspects of technical documentation. Specialist in creating, developing, and directing geographically and culturally diverse teams. Highly visible, driven, and energetic with a reputation for delivering the needs of the customer.
+      
+      Proven participative leadership style that focuses on team work, engagement, and motivation to build high performing successful teams. Consistent track record of driving programs and cross organizational initiatives that result in productive change in operational performance. 
+
 education:
     - degree: MSc in Computer Science
       university: University of London
