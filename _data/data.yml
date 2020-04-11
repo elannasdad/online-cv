@@ -162,23 +162,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Team leadership and resource management
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Process optimisation
+        level: 95%
+
+      - name: Development of standards
+        level: 95%
+
+      - name: Project delivery to schedule and budget
+        level: 100%
+
+      - name: MadCap Flare
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Adobe Creative Cloud
+        level: 90%
+        
+      - name: Adobe Tech Comms Suite
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
