@@ -5,7 +5,6 @@
 sidebar:
     # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-    key skills: True
 
     # Profile information
     name: Matt Fox
@@ -17,28 +16,29 @@ sidebar:
     phone: +44 (0) 7980 911 925
     # website: blog.webjeda.com #do not add http://
     # linkedin: mattfox4
-    github: elannasdad2
+    github: elannasdad
     # gitlab:
     # bitbucket:
     twitter: '@elannasdad'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    
+
     key skills:
-      - item: 20+ years management and documentation production experience
+      - item: 20+ years management and documentation production experience.
+      - item: Team leadership and resource management.
+      - item: Process optimization.
+      - item: Development of standards.
+      - item: Project delivery to schedule and budget.
+
+    interests:
+      - item: Climbing
         link:
 
-      - item: Team leadership and resource management
+      - item: Snowboarding
         link:
 
-      - item: Process optimization
-        link:
-        
-      - item: Development of standards
-        link:
-        
-      - item: Project delivery to schedule and budget
+      - item: Cooking
         link:
 
 career-profile:
