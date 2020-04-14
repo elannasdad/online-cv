@@ -24,31 +24,21 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-
+    
     key skills:
-      - item: 20+ years management and documentation production experience.
+      - item: 20+ years management and documentation production experience
         link:
 
-      - item: Team leadership and resource management.
+      - item: Team leadership and resource management
         link:
 
-      - item: Process optimization.
+      - item: Process optimization
         link:
-
-      - item: Development of standards.
+        
+      - item: Development of standards
         link:
-
-      - item: Project delivery to schedule and budget.
-        link:
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+        
+      - item: Project delivery to schedule and budget
         link:
 
 career-profile:
