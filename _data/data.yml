@@ -147,8 +147,8 @@ projects:
     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
     - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      #     link: "#hook"
+      tagline: "Redesigned an existing fourteen page document to reduce the page count to 2. This produced a $10,000 saving on printing costs per month."
 
     - title: DevStudio
       link: "#"
