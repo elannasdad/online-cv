@@ -45,13 +45,14 @@ sidebar:
     - item: Reading
 
 career-profile:
-  title: Career Profile
+  title: Career profile
   summary: |
     Innovative, results orientated senior manager possessing extensive global experience in all aspects of technical documentation. Specialist in creating, developing, and directing geographically and culturally diverse teams. Highly visible, driven, and energetic with a reputation for delivering the needs of the customer.
 
     Proven participative leadership style that focuses on team work, engagement, and motivation to build high performing successful teams. Consistent track record of driving programs and cross organizational initiatives that result in productive change in operational performance.
 
 experiences:
+  title: Professional experience 
   - role: Senior Manager, Technical Publishing
     time: 2016 - Present
     company: HID Global
@@ -212,6 +213,9 @@ skills:
 
     - name: Adobe Tech Comms Suite
       level: 90%
+
+    - name: Docs-as-code
+      level: 65%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
