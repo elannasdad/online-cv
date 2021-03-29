@@ -19,7 +19,7 @@ sidebar:
     github: elannasdad
     # gitlab:
     # bitbucket:
-    # twitter: '@elannasdad'
+    # twitter: 
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,11 +36,13 @@ sidebar:
       - item: Project delivery to schedule and budget.
         
     interests:
-      - item: Climbing
+      - item: Playing the bass guitar
 
-      - item: Snowboarding
+      - item: Hill walking
 
-      - item: Cooking
+      - item: Minecraft
+      
+      - item: Reading
 
 career-profile:
     title: Career Profile
