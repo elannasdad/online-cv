@@ -51,6 +51,71 @@ career-profile:
 
     Proven participative leadership style that focuses on team work, engagement, and motivation to build high performing successful teams. Consistent track record of driving programs and cross organizational initiatives that result in productive change in operational performance.
 
+experiences:
+  - role: Senior Manager, Technical Publishing
+    time: 2016 - Present
+    company: HID Global
+    details: |
+      Leader and working manager of HID Global’s Technical Publications group. The group is distributed around the world (UK, US, South Africa, Stockholm, India) and produces all customer-facing HID technical product documentation (user manuals, installation guides, online help, etc.).
+        - Direction/strategic planning
+        - Adherence to company policies and procedures
+        - Project delivery to schedule and budget
+        - Prioritization of workload
+        - Professional development of team members
+        - General team management (setting annual goals, appraisals, disciplinary proceedings, holiday approval, salary increases, grievance, etc)
+        - Ownership and continual development of both the company Technical Writing Style Guide and Technical Documentation Development Process
+        - Budget control and approval for all team spending (translation, software subscriptions, business travel, hardware, etc.)
+  - role: Bid Manager
+    time: 2016 - 2016
+    company: Evoqua Water Technologies
+    details: |
+      Management of the Bid Process from initial analysis of requirements through to the production and delivery of compliant Firm and Budget capital proposals for the global Electrocatalytic Sales Department.
+        - Assess scope of works in detail and summarise for Executive Leadership Team
+        - Lead go/no go decision meetings
+        - Analysis of Employer’s Requirements to form a compliant bid strategy
+        - Devise bid management plan to ensure compliance with submission timetable
+        - Management of the Application Engineering team, ensuring full utilisation
+        - Edit technical content to ensure a consistent, tailored bid
+        - Design and creation of submission documents and presentations.
+        - Maintain library of documentation for onward use
+        - Obtain feedback on all submissions/manage continuous improvement process
+  - role: Bid Manager
+    time: 2014 - 2016
+    company: HLN Group
+    details: |
+      Working for an award winning design practice offering Architectural and Engineering Consultancy services throughout the UK, Europe and the Middle East, I was responsible for the management of the Pre Qualification Questionnaire (PQQ) and Invitation to Tender (ITT) process, from enquiry stage through to the submission of a fully compliant response. I was also responsible for maintaining and renewing all relevant industry accreditations and registrations together with the creation and management of all marketing collateral.
+        - Research and identification of suitable opportunities
+        - Detailed scope of works assessment, providing a concise summary and recommendation to the Board of Directors
+        - Lead go/no go decision meetings
+        - Analysis of Employer’s Requirements to form a compliant bid strategy
+        - Bid management plan creation to ensure compliance with submission timetable and requirements
+        - Work with relevant technical and commercial leads to produce content in a timely manner
+        - Edit technical content to ensure a consistent, tailored bid
+        - Ownership of the Health & Safety, Company, Quality, and Environmental sections
+        - Design and creation of submission documents and presentations using InDesign, Illustrator, Photoshop, and Prezi
+        - Maintenance of a central documentation library for future use
+        - Obtain feedback on all submissions and manage continuous improvement process
+        - Technical point of contact for printing and photography suppliers
+  - role: Bid Manager
+    time: 2008 - 2014
+    company: Midas Group
+    details: |
+      Management of the Tender Submission process, from initial analysis of requirements through to the production and delivery of compliant bids. I also provided in-house technical training and supported the Business Development team through the creation of various graphics and marketing material.
+  - role: Technical Writer/Graphic Designer
+    time: 2006 - 2008
+    company: TVonics Solutions
+    details: |
+      Responsible for the design and creation of digital TV product instruction manuals, product packaging, marketing materials, and the company website.
+  - role: Instruction Manual Engineer (Technical Writer)
+    time: 1999 - 2006
+    company: Sony UK Ltd
+    details: |
+      Responsible for the design and creation of Sony TV instruction manuals for the European market, reporting to the European head of Mechanical Design.
+  - role: Production Operative/Repair Technician
+    time: 1996 - 1999
+    company: Sony UK Ltd
+    details: |
+      Responsible for the high quality production of Sony TVs for the European market, quickly progressing from Production Operative to production line Repair Technician.
 education:
   - degree: MSc in Computer Science
     university: University of London
@@ -72,42 +137,6 @@ education:
       sociis natoque penatibus et magnis dis parturient montes, nascetur
       ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
       pretium quis, sem.
-        - Bullet point
-        - Bullet point
-experiences:
-  - role: Senior Manager, Technical Publishing
-    time: 2016 - Present
-    company: HID Global
-    details: |
-      Leader and working manager of HID Global’s Technical Publications group. The group is distributed around the world (UK, US, South Africa, Stockholm, India) and produces all customer-facing HID technical product documentation (user manuals, installation guides, online help, etc.).
-        - Direction/strategic planning
-        - Adherence to company policies and procedures
-        - Project delivery to schedule and budget
-        - Prioritization of workload
-        - Professional development of team members
-        - General team management (setting annual goals, appraisals, disciplinary proceedings, holiday approval, salary increases, grievance, etc)
-        - Ownership and continual development of both the company Technical Writing Style Guide and Technical Documentation Development Process
-        - Budget control and approval for all team spending (translation, software subscriptions, business travel, hardware, etc.)
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
 projects:
