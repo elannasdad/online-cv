@@ -146,13 +146,17 @@ projects:
     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-    - title: Velocity
+    - title: HID Global, 2021
+      #     link: "#hook"
+      tagline: "Oversaw the rebranding of all technical documentation (~5,000 individual documents)."
+
+    - title: HID Global, 2020
+      #     link: "#hook"
+      tagline: "Migrated the Technical Publications department from an antiquated FrameMaker workflow to a topic-based approach using MadCap Flare and the company's existing Bitbucket server."
+
+    - title: HID Global, 2018
       #     link: "#hook"
       tagline: "Redesigned an existing fourteen page document to reduce the page count to 2. This produced a $10,000 saving on printing costs per month."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
 
     - title: Tempo
       link: "#"
