@@ -4,7 +4,7 @@
 
 sidebar:
   # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Matt Fox
@@ -75,21 +75,23 @@ education:
         - Bullet point
         - Bullet point
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Senior Manager, Technical Publishing
+    time: 2016 - Present
+    company: HID Global
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Leader and working manager of HID Global’s Technical Publications group. The group is
+distributed around the world (UK, US, South Africa, Stockholm, India) and produces all
+customer-facing HID technical product documentation (user manuals, installation guides,
+online help, etc.).
+        - Direction/strategic planning
+        - Adherence to company policies and procedures
+        - Project delivery to schedule and budget
+        - Prioritization of workload
+        - Professional development of team members
+        - General team management (setting annual goals, appraisals, disciplinary proceedings, holiday approval, salary increases, grievance, etc).
+        - Ownership and continual development of both the company Technical Writing Style Guide and Technical Documentation Development Process.
+        - Budget control and approval for all team spending (translation, software subscriptions, business travel, hardware, etc.).
+
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
