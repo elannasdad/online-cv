@@ -158,18 +158,25 @@ projects:
       #     link: "#hook"
       tagline: "Redesigned an existing fourteen page document to reduce the page count to 2. This produced a $10,000 saving on printing costs per month."
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: HID Global, 2016
+      #      link: "#"
+      tagline: "Established a new consolidated Technical Publications team. Key activities included recruitment and transfer of knowledge."
 
-    - title: Atom
+    - title: Midas Group, 2010
       link: "#"
       tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-    - title: Delta
-      link: "#"
+    - title: Midas Group, 2008
+      #      link: "#"
       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+    - title: Midas Group, 2010
+      #      link: "#"
+      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+    - title: Delta
+      #      link: "#"
+      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 #publications:
 #  title: Publications
 #  intro: |
